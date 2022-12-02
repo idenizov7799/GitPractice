@@ -5,3 +5,4 @@ GitHub For Dummies
 Linux
 Java for beginners
 
+Smart Choices
