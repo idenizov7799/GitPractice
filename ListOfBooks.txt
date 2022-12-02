@@ -5,5 +5,4 @@ GitHub For Dummies
 Linux
 Java for beginners
 Bible
-
 Smart Choices
